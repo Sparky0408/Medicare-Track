@@ -32,14 +32,14 @@ ABOUT US
 Clone the project
 
 ```bash
-  gh repo clone MedicareTrack/Medicare-Track
+ gh repo clone Sparky0408/Medicare-Track
 ```
 
 
 Go to the project directory
 
 ```bash
-  cd MedicareTrack
+  cd Medicare-Track
 ```
 
 Install dependencies
